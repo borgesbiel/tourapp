@@ -1,0 +1,12 @@
+.sebm-google-map-container {
+  height: 300px;
+}
+
+.navbar-inverse {
+  background-color: #3a87ad;
+  border-color: #3a87ad;
+}
+
+.navbar-inverse .navbar-brand {
+  color: #fcfcfc;
+}
